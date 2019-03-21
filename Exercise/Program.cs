@@ -213,30 +213,49 @@ namespace Exercise
             Console.WriteLine("6.All white dogs names from Cristofer, Freddy, Erin and Amelia, ordered by Name - ASCENDING ORDER:");
 
             var whiteDogs = new List<Dog>();
+            var whiteCristoferDogs = filterCristofer.Dogs.Where(d => d.Color == "White").ToList();
+            var whiteFreddyDogs = filterFreddy.Dogs.Where(d => d.Color == "White").ToList();
+            var whiteErinDogs = filterErin.Dogs.Where(d => d.Color == "White").ToList();
+            var whiteAmeliaDogs = filterAmelia.Dogs.Where(d => d.Color == "White").ToList();
 
-            whiteDogs.Add(jackDog);
-            whiteDogs.Add(ellieDog);
-            whiteDogs.Add(hankDog);
-            whiteDogs.Add(dogOscar);
-            whiteDogs.Add(dogToby);
-            whiteDogs.Add(dogChanel);
-            whiteDogs.Add(dogBo);
-            whiteDogs.Add(dogScout);
-            whiteDogs.Add(dogTrixie);
-            whiteDogs.Add(dogArchie);
-            whiteDogs.Add(dogMax);
-            whiteDogs.Add(dogAbby);
-            whiteDogs.Add(dogShadow);
-          
-            var orderedByName = whiteDogs.Where(d => d.Color == "White").OrderBy(d => d.Name);
-            foreach (var dog in orderedByName)
+            foreach (var dog in whiteCristoferDogs)
             {
-                Console.WriteLine($"{dog.Name}");
+               if(whiteCristoferDogs.Count != 0)
+                {
+                    whiteDogs.Add(dog);
+                }
+            }
+            foreach (var dog in whiteFreddyDogs)
+            {
+                if (whiteFreddyDogs.Count != 0)
+                {
+                    whiteDogs.Add(dog);
+                }
+            }
+            foreach (var dog in whiteErinDogs)
+            {
+                if (whiteErinDogs.Count != 0)
+                {
+                    whiteDogs.Add(dog);
+                }
+            }
+            foreach (var dog in whiteAmeliaDogs)
+            {
+                if (whiteAmeliaDogs.Count != 0)
+                {
+                    whiteDogs.Add(dog);
+                }
             }
 
-            Console.WriteLine();
+            var orderedByName = whiteDogs.OrderBy(d => d.Name);
+            foreach (var dog in orderedByName)
+            {
+                Console.WriteLine(dog.Name);
+            }
+
+       
             Console.ReadLine();
-            Console.WriteLine();
+     
 
 
 

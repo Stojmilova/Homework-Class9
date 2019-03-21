@@ -4,3 +4,9 @@ C:\Users\Stojmilova\source\repos\Homework-LINQ\Classes\obj\Debug\Classes.csprojA
 C:\Users\Stojmilova\source\repos\Homework-LINQ\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
 C:\Users\Stojmilova\source\repos\Homework-LINQ\Classes\obj\Debug\Classes.dll
 C:\Users\Stojmilova\source\repos\Homework-LINQ\Classes\obj\Debug\Classes.pdb
+C:\Users\Stojmilova\Desktop\C#\ДОМАШНИ\Осма домашна-LINQ\Homework-LINQ\Classes\bin\Debug\Classes.dll
+C:\Users\Stojmilova\Desktop\C#\ДОМАШНИ\Осма домашна-LINQ\Homework-LINQ\Classes\bin\Debug\Classes.pdb
+C:\Users\Stojmilova\Desktop\C#\ДОМАШНИ\Осма домашна-LINQ\Homework-LINQ\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+C:\Users\Stojmilova\Desktop\C#\ДОМАШНИ\Осма домашна-LINQ\Homework-LINQ\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Stojmilova\Desktop\C#\ДОМАШНИ\Осма домашна-LINQ\Homework-LINQ\Classes\obj\Debug\Classes.dll
+C:\Users\Stojmilova\Desktop\C#\ДОМАШНИ\Осма домашна-LINQ\Homework-LINQ\Classes\obj\Debug\Classes.pdb

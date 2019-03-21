@@ -42,8 +42,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Dog.cs" />
-    <Compile Include="Enum Job.cs" />
-    <Compile Include="Enum Race.cs" />
+    <Compile Include="EnumJob.cs" />
+    <Compile Include="EnumRace.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

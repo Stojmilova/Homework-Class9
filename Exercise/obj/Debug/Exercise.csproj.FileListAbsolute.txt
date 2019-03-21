@@ -8,3 +8,13 @@ C:\Users\Stojmilova\source\repos\Homework-LINQ\Exercise\obj\Debug\Exercise.cspro
 C:\Users\Stojmilova\source\repos\Homework-LINQ\Exercise\obj\Debug\Exercise.csproj.CopyComplete
 C:\Users\Stojmilova\source\repos\Homework-LINQ\Exercise\obj\Debug\Exercise.exe
 C:\Users\Stojmilova\source\repos\Homework-LINQ\Exercise\obj\Debug\Exercise.pdb
+C:\Users\Stojmilova\Desktop\C#\ДОМАШНИ\Осма домашна-LINQ\Homework-LINQ\Exercise\bin\Debug\Exercise.exe.config
+C:\Users\Stojmilova\Desktop\C#\ДОМАШНИ\Осма домашна-LINQ\Homework-LINQ\Exercise\bin\Debug\Exercise.exe
+C:\Users\Stojmilova\Desktop\C#\ДОМАШНИ\Осма домашна-LINQ\Homework-LINQ\Exercise\bin\Debug\Exercise.pdb
+C:\Users\Stojmilova\Desktop\C#\ДОМАШНИ\Осма домашна-LINQ\Homework-LINQ\Exercise\bin\Debug\Classes.dll
+C:\Users\Stojmilova\Desktop\C#\ДОМАШНИ\Осма домашна-LINQ\Homework-LINQ\Exercise\bin\Debug\Classes.pdb
+C:\Users\Stojmilova\Desktop\C#\ДОМАШНИ\Осма домашна-LINQ\Homework-LINQ\Exercise\obj\Debug\Exercise.csprojAssemblyReference.cache
+C:\Users\Stojmilova\Desktop\C#\ДОМАШНИ\Осма домашна-LINQ\Homework-LINQ\Exercise\obj\Debug\Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Stojmilova\Desktop\C#\ДОМАШНИ\Осма домашна-LINQ\Homework-LINQ\Exercise\obj\Debug\Exercise.csproj.CopyComplete
+C:\Users\Stojmilova\Desktop\C#\ДОМАШНИ\Осма домашна-LINQ\Homework-LINQ\Exercise\obj\Debug\Exercise.exe
+C:\Users\Stojmilova\Desktop\C#\ДОМАШНИ\Осма домашна-LINQ\Homework-LINQ\Exercise\obj\Debug\Exercise.pdb
